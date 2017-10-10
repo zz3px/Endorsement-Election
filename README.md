@@ -1,1 +1,3 @@
 # Endorsement-Election
+In presidential primaries, endorsements have been among the best predictors of which candidates will succeed and which will fail. 
+The   endorsement   dataset   gives   information   about   candidates’   campaign   performances   in   primary through   June   30th   from   each   year   in   1980   -   2012.   It   evaluates   109   candidates’   performances   in terms   of   their   weighted   endorsement   points,   percentage   of   weighted   endorsement   points,   money raised,   percentage   of   money   raised,   percentage   of   primary   vote   won   and   primary   result.
